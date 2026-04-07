@@ -1,0 +1,9 @@
+# NIEMALS hochladen:
+.env
+node_modules/
+*.log
+.DS_Store
+
+# Optional für später:
+build/
+*.jar
